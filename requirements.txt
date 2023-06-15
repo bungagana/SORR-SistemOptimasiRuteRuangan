@@ -1,9 +1,10 @@
-numpy
 streamlit
-pandas
 plotly
-matplotlib
 streamlit-option-menu
-CSV
 Txt
 option_menu
+networkx
+matplotlib
+graphviz
+numpy
+
